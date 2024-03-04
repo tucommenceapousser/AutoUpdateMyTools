@@ -23,7 +23,7 @@ cd
 cd
 rm -rf Email-Spammer
 sleep 2
-git clone https://github.com/mishakorzik/Email-Spammer
+git clone https://github.com/tucommenceapousser/Email-Spammer
 cd
 cd
 python Email-Spammer/src/aumt.py
